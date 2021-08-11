@@ -29,7 +29,7 @@ export default function Layout({ title, description, image, children }: Props) {
             <a href="mailto:sboh1214@gmail.com" target="_top">
               Seungbin Oh
             </a>
-            {'. Built with '}
+            {'. Inspired by '}
             <a href="https://github.com/sungik-choi/gatsby-starter-apple" target="__blank">
               'gatsby-starter-apple'
             </a>
